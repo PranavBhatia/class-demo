@@ -15,11 +15,11 @@ h1 {
   color: #e2dbdb;
 }
 
-hr {
+/* hr {
   border-color: #f05f44;
   border-width: 3px;
   max-width: 65px;
-}
+} */
 
 .buffer {
   height: 12rem;
@@ -47,9 +47,9 @@ hr {
 }
 
 hr {
-  margin: 30px auto;
+  margin: 20px auto;
   color: #f05f44;
-  border: 3px solid #f05f44;
+  border: 1px solid #f05f44;
   max-width: 65px;
   opacity: 1;
 }
