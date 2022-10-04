@@ -2,8 +2,8 @@ body,
 html {
   width: 100%;
   height: 100%;
-  font-family: 'Montserrat', sans-serif;
-  background: url(header.jpg) no-repeat center center fixed; 
+  font-family: "Montserrat", sans-serif;
+  background: url(header.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -12,11 +12,11 @@ html {
 
 h1 {
   font-size: 3rem;
-  color: #e2dbdb
+  color: #e2dbdb;
 }
 
 hr {
-  border-color: #F05F44;
+  border-color: #f05f44;
   border-width: 3px;
   max-width: 65px;
 }
@@ -32,8 +32,8 @@ hr {
 }
 
 .btn-primary {
-  background-color: #F05F44;
-  border-color: #F05F44;
+  background-color: #f05f44;
+  border-color: #f05f44;
 }
 
 .btn-primary:hover {
@@ -44,4 +44,12 @@ hr {
 
 .btn-xl {
   padding: 1rem 2rem;
+}
+
+hr {
+  margin: 30px auto;
+  color: #f05f44;
+  border: 3px solid #f05f44;
+  max-width: 65px;
+  opacity: 1;
 }
